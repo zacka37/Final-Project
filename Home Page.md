@@ -1,10 +1,10 @@
-# **About me Summary:**
-    ================
+![School Logo](https://educationusa.state.gov/sites/default/files/field_hei_logo/mizzou_institution_logo.jpg)     
+================
 My name is Zack Augustine I am currently a junior at college with the goal to become a software engineer. I have swiched my major two times but I am sticking with Information Technology.
 For more information about me click this link: [About Me](https://github.com/zacka37/About-me--Full-Page-.git) 
 
 ---
- ## **30 Python Interview Questions (Answered)**
+ # **30 Python Interview Questions (Answered)**
  As a student in the class "Programming 1" from the University of Missouri I had this assignment.
  Link to the code: [PY Interview questions](https://github.com/zacka37/Python-Interview-Questions.git)
 
