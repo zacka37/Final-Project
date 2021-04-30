@@ -12,11 +12,11 @@ For more information about me click this link: [About Me](https://github.com/zac
  As a student in the class "Programming 1" from the University of Missouri I had to answer 30 interview questions.
  Link to the code: [Python Interview questions](https://github.com/zacka37/Python-Interview-Questions.git)
 
-## *Python*
+## **Python**
 * [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
 
 
-## *HTML and CSS*
+## **HTML and CSS**
 * [A list of HTML sites that I have worked on and a HTML/CSS Certification](https://github.com/zacka37/HTML-list.git)
 
 ---
