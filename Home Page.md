@@ -25,8 +25,8 @@ For more information about me click this link: [About Me](https://github.com/zac
 <code> print("Hello World")
 
 ### References 
-"Never memorize what you can look up." -- Albert Einstein
-[References that I use when developing code](https://github.com/zacka37/Python-references.git)
+"Never memorize what you can look up." -- Albert Einstein.
+For a list of my favorite references that I use click on this link: [References that I use when developing code](https://github.com/zacka37/Python-references.git)
 
 ### Skills
 Skills show and tell who they are and what life experiences they have ran through.
