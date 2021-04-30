@@ -6,7 +6,6 @@ My name is Zack Augustine I am currently a junior at college with the goal to be
 For more information about me click this link: [About Me](https://github.com/zacka37/About-me--Full-Page-.git) 
 
 ---
-[References that I use when developing code](https://github.com/zacka37/Python-references.git)
 
 
 # **30 Python Interview Questions (Answered)**
@@ -25,7 +24,7 @@ For more information about me click this link: [About Me](https://github.com/zac
  ## *My First code*
  <code> print("Hello World")
 
- [References that I use when developing code](https://github.com/zacka37/Python-references.git)
+ ## [References that I use when developing code](https://github.com/zacka37/Python-references.git)
 
  ### Skills
  Skills show and tell who they are and what life experiences they have ran through.
