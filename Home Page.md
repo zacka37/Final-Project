@@ -6,20 +6,23 @@ My name is Zack Augustine I am currently a junior at college with the goal to be
 For more information about me click this link: [About Me](https://github.com/zacka37/About-me--Full-Page-.git) 
 
 ---
- # **30 Python Interview Questions (Answered)**
+#[References that I use when typing code](https://github.com/zacka37/Python-references.git)
+
+---
+
+# **30 Python Interview Questions (Answered)**
  As a student in the class "Programming 1" from the University of Missouri I had this assignment.
  Link to the code: [PY Interview questions](https://github.com/zacka37/Python-Interview-Questions.git)
 
-### Personal Code Projects
- ### *My First code*
- <code> print("Hello World")
-
 ## *Python*
 * [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
-* [References that I use for python]()
 
-A great programmer needs references when typing code because the human brain cannot remember every small detail. A great Reference sheet will improve the speed of how fast someone can program.
-* [W3 Schools](https://www.w3schools.com/python/default.asp)
-* [Real Python](https://realpython.com/documenting-python-code/)
-* [GeekforGeeks PY](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
-* [Stack overflow](https://stackoverflow.com/)
+
+## *HTML and CSS*
+* [A list of HTML sites that I have worked on and a HTML/CSS Certification](https://github.com/zacka37/HTML-list.git)
+
+ ## *My First code*
+ <code> print("Hello World")
+
+### Ideal Work Environment
+Work environments are inportant because the setting and mood of an office can alter a employee work ethic. For a list of my Ideal work environment conditions click this link: [Ideal work Environment](https://github.com/zacka37/Ideal-Work-Environment.git) 
