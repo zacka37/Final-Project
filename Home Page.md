@@ -14,8 +14,12 @@ For more information about me click this link: [About Me](https://github.com/zac
  ### *My First code*
  <code> print("Hello World")
 
-## *Python Code*
- * [Cylinder Calculation](https://github.com/zacka37/Cylinder-Material-Cost-Calculator.git)
+## *Python*
+* [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
+* [References that I use for python]()
 
- * [Number Summary](https://github.com/zacka37/Number-Summary.git)
- Click this link to see more Python code from myself [More Python code]()
+A great programmer needs references when typing code because the human brain cannot remember every small detail. A great Reference sheet will improve the speed of how fast someone can program.
+* [W3 Schools](https://www.w3schools.com/python/default.asp)
+* [Real Python](https://realpython.com/documenting-python-code/)
+* [GeekforGeeks PY](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+* [Stack overflow](https://stackoverflow.com/)
