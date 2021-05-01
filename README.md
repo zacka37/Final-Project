@@ -22,7 +22,7 @@ For more information about me click this link: [About Me](https://github.com/zac
 ---
 
 ## *My First code*
-<code> print("Hello World")
+``` print("Hello World") ```
 
 ### References 
 "Never memorize what you can look up." -- Albert Einstein.
