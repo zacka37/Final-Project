@@ -3,7 +3,7 @@
     
 
 My name is Zack Augustine I am currently a junior at college with the goal to become a software engineer. I have swiched my major two times but I am sticking with the [Information Technology](http://catalog.missouri.edu/undergraduategraduate/collegeofengineering/informationtechnology/bs-information-technology/) major offered at [Mizzou](https://missouri.edu/).
-For more information about me click this link: [About Me](https://github.com/zacka37/About-me--Full-Page-.git) 
+For more information about me click this link: [About Me](https://github.com/zacka37/Final-Project/blob/New-README/About%20Me%20(Full%20Page).md) 
 
 ---
 
