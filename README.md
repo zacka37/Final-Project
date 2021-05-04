@@ -33,4 +33,4 @@ Skills show and tell who they are and what life experiences they have ran throug
 For a list of my skills click this link: [Hard and soft skills](https://github.com/zacka37/Final-Project/blob/New-README/Skills.md)
 
 ### Ideal Work Environment
-Work environments are inportant because the setting and mood of an office can alter a employee work ethic. For a list of my Ideal work environment conditions click this link: [Ideal work Environment](https://github.com/zacka37/Ideal-Work-Environment/blob/main/Ideal%20Work%20Environment.md) 
+Work environments are inportant because the setting and mood of an office can alter a employee work ethic. For a list of my Ideal work environment conditions click this link: [Ideal work Environment](https://github.com/zacka37/Final-Project/blob/New-README/Ideal%20Work%20Environment.md) 
