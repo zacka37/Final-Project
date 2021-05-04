@@ -1,4 +1,4 @@
-![](https://github.com/zacka37/Photos/blob/main/ZackAugustine.jpg)
+![](https://github.com/zacka37/Final-Project/blob/New-README/ZackAugustine.jpg)
 
 My name is Zack Augustine, and I am a junior at the University of Missouri (Mizzou). Before I attended Mizzou, I was a student at St. Louis Community College (STLCC). 
 Going to a community college to get my associate degree was a very smart plan because it saved me lots of money that would have been spent at Mizzou. 
