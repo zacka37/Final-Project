@@ -10,7 +10,7 @@ For more information about me click this link: [About Me](https://github.com/zac
 
 ## **30 Python Interview Questions (Answered)**
  As a student in the class "Programming 1" from the University of Missouri I had to answer 30 interview questions.
- Link to the code: [Python Interview questions](https://github.com/zacka37/Python-Interview-Questions.git)
+ Link to the code: [Python Interview questions](https://github.com/zacka37/Final-Project/blob/New-README/Python%20Interview%20questions.py)
 
 ## **Python**
 * [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
