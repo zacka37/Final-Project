@@ -17,7 +17,7 @@ For more information about me click this link: [About Me](https://github.com/zac
 
 
 ## **HTML and CSS**
-* [A list of HTML sites that I have worked on and a HTML/CSS Certification](https://github.com/zacka37/Final-Project/blob/New-README/HTML%20And%20CSS%20list.md)
+* [A list of HTML sites that I have worked on and a HTML/CSS Certification.](https://github.com/zacka37/Final-Project/blob/New-README/HTML%20And%20CSS%20list.md)
 
 ---
 
