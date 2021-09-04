@@ -4,7 +4,6 @@
 * Any size team with hierarchy.
 * Many options for a quiet place on campus and a common area for collaboration.
 * Committed employees that program with the future in mind.
-* A designated place to share and edit files.
 
 ---
 ## [Back to README](https://github.com/zacka37/Final-Project.git)
