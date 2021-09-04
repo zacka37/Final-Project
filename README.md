@@ -2,7 +2,7 @@
 [](https://missouri.edu/)
     
 
-My name is Zack Augustine and I am currently a junior at the University of Missouri-Columbia with the goal to become a software engineer. I have changed my educational path a couple of times, but I am confidently pursuring the [Information Technology](http://catalog.missouri.edu/undergraduategraduate/collegeofengineering/informationtechnology/bs-information-technology/) major offered at [Mizzou](https://missouri.edu/).
+My name is Zack Augustine and I am currently a junior at the University of Missouri-Columbia with the goal to become a software engineer. I have changed my educational path a couple of times, but I am confidently pursuring the [Information Technology](http://catalog.missouri.edu/collegeofengineering/informationtechnology/bs-information-technology/) major offered at [Mizzou](https://missouri.edu/).
 For more information about me click this link: [About Me](https://github.com/zacka37/Final-Project/blob/New-README/About%20Me%20(Full%20Page).md) 
 
 ---
