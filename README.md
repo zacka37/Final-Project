@@ -23,7 +23,7 @@ For more information about me click this link: [About Me](https://github.com/zac
 
 ### Coding References 
 "Never memorize what you can look up." -- Albert Einstein.
-For a list of my favorite code references that I use, click on this link: [Coding References that I use when developing code](https://github.com/zacka37/Final-Project/blob/New-README/A%20list%20of%20references%20for%20program%20development.md)
+For a list of my favorite code references, click on this link: [Coding References that I use when developing code](https://github.com/zacka37/Final-Project/blob/New-README/A%20list%20of%20references%20for%20program%20development.md)
 
 ### Hard and Soft Skills
 Skills will express who you are and what life experiences you have conquered.
