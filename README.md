@@ -13,7 +13,7 @@ For more information about me click this link: [About Me](https://github.com/zac
  Link to Interview Questions: [Python Interview Questions](https://github.com/zacka37/Final-Project/blob/New-README/Python%20Interview%20questions.py)
 
 ## **Python**
-* [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
+* [A list of Python code that I have worked on.](https://github.com/zacka37/Python-Code.git)
 
 
 ## **HTML and CSS**
