@@ -1,6 +1,6 @@
 ![](https://github.com/zacka37/Final-Project/blob/New-README/ZackAugustine.jpg)
 
-My name is Zack Augustine, I am a junior at the University of Missouri-Columbia (Mizzou). Before I attended Mizzou, I was a student at the \nSt. Louis Community College-Meramec (STLCC). 
+My name is Zack Augustine, I am a junior at the University of Missouri-Columbia (Mizzou). Before I attended Mizzou, I was a student at the St. Louis Community College-Meramec (STLCC). 
 
 Attending a community college to obtain my Associates Degree was a very smart financial plan because it saved me money. 
 
