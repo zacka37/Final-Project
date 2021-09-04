@@ -2,15 +2,15 @@
 [](https://missouri.edu/)
     
 
-My name is Zack Augustine I am currently a junior at college with the goal to become a software engineer. I have swiched my major two times but I am sticking with the [Information Technology](http://catalog.missouri.edu/undergraduategraduate/collegeofengineering/informationtechnology/bs-information-technology/) major offered at [Mizzou](https://missouri.edu/).
+My name is Zack Augustine and I am currently a junior at the University of Missouri-Columbia with the goal to become a software engineer. I have changed my educational path a couple of times, but I am confidently pursuring the [Information Technology](http://catalog.missouri.edu/undergraduategraduate/collegeofengineering/informationtechnology/bs-information-technology/) major offered at [Mizzou](https://missouri.edu/).
 For more information about me click this link: [About Me](https://github.com/zacka37/Final-Project/blob/New-README/About%20Me%20(Full%20Page).md) 
 
 ---
 
 
 ## **30 Python Interview Questions (Answered)**
- As a student in the class "Programming 1" from the University of Missouri I had to answer 30 interview questions.
- Link to the code: [Python Interview questions](https://github.com/zacka37/Final-Project/blob/New-README/Python%20Interview%20questions.py)
+ As a student in the class "Programming 1" from the University of Missouri-Columbia I had to answer 30 interview questions.
+ Link to Interview Questions: [Python Interview Questions](https://github.com/zacka37/Final-Project/blob/New-README/Python%20Interview%20questions.py)
 
 ## **Python**
 * [A list of Python code that I have worked on](https://github.com/zacka37/Python-Code.git)
@@ -21,16 +21,13 @@ For more information about me click this link: [About Me](https://github.com/zac
 
 ---
 
-## *My First code*
-``` print("Hello World") ```
-
-### References 
+### Coding References 
 "Never memorize what you can look up." -- Albert Einstein.
-For a list of my favorite references that I use click on this link: [References that I use when developing code](https://github.com/zacka37/Final-Project/blob/New-README/A%20list%20of%20references%20for%20program%20development.md)
+For a list of my favorite code references that I use, click on this link: [Coding References that I use when developing code](https://github.com/zacka37/Final-Project/blob/New-README/A%20list%20of%20references%20for%20program%20development.md)
 
-### Skills
-Skills show and tell who they are and what life experiences they have ran through.
-For a list of my skills click this link: [Hard and soft skills](https://github.com/zacka37/Final-Project/blob/New-README/Skills.md)
+### Hard and Soft Skills
+Skills will express who you are and what life experiences you have conquered.
+For a list of my skills click this link: [Hard and Soft Skills](https://github.com/zacka37/Final-Project/blob/New-README/Skills.md)
 
 ### Ideal Work Environment
-Work environments are inportant because the setting and mood of an office can alter a employee work ethic. For a list of my Ideal work environment conditions click this link: [Ideal work Environment](https://github.com/zacka37/Final-Project/blob/New-README/Ideal%20Work%20Environment.md) 
+Work environments are important because the setting and mood of an office can alter an employees work ethic. For a list of my Ideal Work Environment conditions click this link: [Ideal Work Environment](https://github.com/zacka37/Final-Project/blob/New-README/Ideal%20Work%20Environment.md) 
