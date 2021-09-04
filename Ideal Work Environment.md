@@ -3,7 +3,7 @@
 * Pair Programming - two or more employees working on the same code.
 * Any size team with hierarchy.
 * Many options for a quiet place on campus and a common area for collaboration.
-* committed employees that program with the future in mind. This means that the programmer adds comments to the program and has readability in mind.
+* Committed employees that program with the future in mind.
 * A designated place to share and edit files.
 
 ---
